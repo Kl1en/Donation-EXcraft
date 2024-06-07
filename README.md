@@ -1,0 +1,2 @@
+# Donation-EXcraft
+Тестовый плагин
